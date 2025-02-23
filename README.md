@@ -1,12 +1,3 @@
-# M3U8-Telegram-Bot
-A Telegram bot to download and upload M3U8 videos.
+# Auto Deploy to Colab
 
-## Setup
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Run the bot:
-   ```bash
-   python bot.py
-   ```
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/autofollower350/Llkkl/blob/main/bot.ipynb)
